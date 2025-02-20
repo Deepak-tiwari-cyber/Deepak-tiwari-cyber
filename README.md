@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm [Deepak Tiwari]!
 
-<!--
-**Deepak-tiwari-cyber/Deepak-tiwari-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Cybersecurity Enthusiast | Python Developer | Open Source Contributor**  
 
-Here are some ideas to get you started:
+🚀 **About Me:**  
+- 🎯 I love working on Cybersecurity & Ethical Hacking projects.  
+- 💡 Passionate about Python scripting & automation.  
+- 🔐 Exploring penetration testing & network security.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Skills:**  
+- 🔹 Python, Bash Scripting  
+- 🔹 Kali Linux, Metasploit, Wireshark  
+- 🔹 Web Security, Bug Bounty  
+
+📫 **Let's Connect:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](www.linkedin.com/in/deepak-tiwari-95a10326)  
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-lightgrey?logo=github)](https://github.com/Deepak-tiwari-cyber)
